@@ -35,6 +35,12 @@
   margin-bottom: 100px;
 }
 
+.sectionTitle {
+  padding-inline: 10px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+}
+
 .content {
   display: flex;
   gap: 50px;
@@ -49,18 +55,6 @@
 
 .contentTitle {
   margin: 10px 0;
-}
-
-.sectionTitle {
-  padding-inline: 10px;
-  margin-bottom: 30px;
-  border-bottom: 1px solid black;
-}
-
-.hobby {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 .hobbyItem {
